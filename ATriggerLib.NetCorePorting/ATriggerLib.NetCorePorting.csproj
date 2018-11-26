@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>ATriggerLib</RootNamespace>
+    <AssemblyName>ATriggerLib</AssemblyName>
+    <AssemblyVersion>1.0.0.13</AssemblyVersion>
+    <FileVersion>1.0.14282.13</FileVersion>
+  </PropertyGroup>
+
+</Project>
